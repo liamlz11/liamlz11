@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Liam 👋<br>Cybersecurity Student · Israel · Offensive security practitioner <br>
 
 
