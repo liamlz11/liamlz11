@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Liam 👋<br>Cybersecurity Student · Israel · Offensive security practitioner <br>
+Hi, I'm Liam 👋<br>Cybersecurity Student · Israel <br>
 
 
 # 💻 Tech Stack:
